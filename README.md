@@ -1,1 +1,1 @@
-Main page and links to recipies
+Main page and links to recipes
