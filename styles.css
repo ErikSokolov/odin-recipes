@@ -1,6 +1,10 @@
 
-div {
-	color: blue;
+alert.red {
+	color: red;
+}
+
+alert.green { 
+	color: green;
 }
 
 
