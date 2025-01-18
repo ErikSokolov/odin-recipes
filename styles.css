@@ -1,3 +1,9 @@
+* {
+	font-family: sans-serif;
+	text-align: center;
+}
+
+
 body {
 	background-color: darkgray;
 }
@@ -11,22 +17,10 @@ div {
 }
 
 .link {
-	text-size: 21px;
+	font-size: 20px;	
 }
 
 
-#alertpink,
-.alertgreen {
-	background-color: blue;
-}
-
-#alertpink{
-	color: pink;
-}
-
-.alertgreen { 
-	color: green;
-}
 
 
 
