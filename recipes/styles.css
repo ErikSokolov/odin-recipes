@@ -1,0 +1,27 @@
+* {
+	font-family: sans-serif;
+	text-align: center;
+}
+
+
+body {
+	background-color: darkgray;
+}
+
+h1 {
+	font-size: 32px;
+}
+
+div {
+	font-size: 20px;
+}
+
+.link {
+	font-size: 20px;	
+}
+
+
+
+
+
+
